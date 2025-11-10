@@ -4,13 +4,22 @@
 
 ## 📥 下载安装
 
+### 方式 1：拖拽安装（推荐）
+
 1. 访问 [Releases](https://github.com/cuw8250/xy-card-helper-releases/releases) 页面
-2. 下载最新版本的 ZIP 文件
-3. 解压到本地目录
-4. 打开 Chrome 浏览器，访问 `chrome://extensions/`
-5. 开启"开发者模式"
-6. 点击"加载已解压的扩展程序"
-7. 选择解压后的文件夹
+2. 下载最新版本的 ZIP 文件（**无需解压**）
+3. 打开 Chrome 浏览器，访问 `chrome://extensions/`
+4. 开启"开发者模式"
+5. 将 ZIP 文件直接拖拽到浏览器窗口中
+
+### 方式 2：解压安装
+
+1. 访问 [Releases](https://github.com/cuw8250/xy-card-helper-releases/releases) 页面
+2. 下载最新版本的 ZIP 文件并解压
+3. 打开 Chrome 浏览器，访问 `chrome://extensions/`
+4. 开启"开发者模式"
+5. 点击"加载已解压的扩展程序"
+6. 选择解压后的文件夹
 
 ## 📝 版本历史
 
